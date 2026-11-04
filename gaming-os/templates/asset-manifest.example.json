@@ -1,0 +1,46 @@
+{
+  "schema": "gaming-os.asset-manifest.v1",
+  "example_only": true,
+  "game_id": "example-game",
+  "coordinate_unit": "px",
+  "assets": [
+    {
+      "id": "hero-idle",
+      "category": "character",
+      "usage": "Main player idle animation",
+      "status": "planned",
+      "runtime_path": null,
+      "raw_path": null,
+      "sha256": null,
+      "width": 256,
+      "height": 128,
+      "alpha_required": true,
+      "origin": [64, 116],
+      "origin_space": "frame_px",
+      "scale_profile": "hero-shared-scale",
+      "frames": [
+        {"rect": [0, 0, 128, 128], "duration_ms": 125},
+        {"rect": [128, 0, 128, 128], "duration_ms": 125}
+      ],
+      "loop": true,
+      "collision_ref": "player-body",
+      "provenance": {
+        "provider": null,
+        "model_id": null,
+        "job_id": null,
+        "prompt_path": null,
+        "reference_paths": [],
+        "generated_at": null,
+        "processing": [],
+        "fallback_reason": null
+      },
+      "review": {
+        "qc_status": "not_run",
+        "accepted_by_agent": false,
+        "approved_by_owner": false,
+        "owner_approval_evidence": null,
+        "notes": "Illustrative dimensions only; no generated asset exists."
+      }
+    }
+  ]
+}

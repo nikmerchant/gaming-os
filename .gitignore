@@ -1,0 +1,25 @@
+# Private working data: never part of the framework distribution.
+/workspace/
+/games/
+/Resources/
+/research/
+/00-project-control/
+/MEMORY.md
+/plan.md
+/.toolchain/
+/.firecrawl/
+/.env
+/.env.*
+!.env.example
+**/*.pem
+**/*.key
+**/.godot/
+**/__pycache__/
+**/*.pyc
+**/node_modules/
+.claude/settings.local.json
+.claude/settings.json
+.codex/
+.aws/
+.DS_Store
+Thumbs.db

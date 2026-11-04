@@ -1,0 +1,247 @@
+{
+  "schema": "gaming-os.public-files.v1",
+  "version": "0.1.0",
+  "scope": "Original framework guidance, generic templates and validation tools only",
+  "files": [
+    {
+      "path": ".claude/skills/gaming-os/SKILL.md",
+      "sha256": "64328fb5b5bbdf26fda606cbe4d4af062b8041e23203352595c71f383affc3f0",
+      "bytes": 834
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "201f9823526ba4bc4b4037d133785360714c140b7cdbf664b824461e401efce5",
+      "bytes": 359
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "75fa8365a06ef1f2539d6c53853b493afc610ad73a8127fdcbff50279d9cf20c",
+      "bytes": 2108
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "af34a29e746dcb2a21a54e45c297bb5f16ee3fc8b0382f615f4adedcc74aed30",
+      "bytes": 326
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "a67f9dca3ba06fc28f4c08e07c1e74fedc3d0474261553828b10db02f857f39c",
+      "bytes": 1607
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "82895e109e7d1a1f131c54da5f50c4d17e3ac5f878f358143755eedc24fd6638",
+      "bytes": 1068
+    },
+    {
+      "path": "README.md",
+      "sha256": "1d94e34f4da0660ca8aaf094186f4c7fe7f477bcb93922cd27eefdfa79b33d76",
+      "bytes": 5350
+    },
+    {
+      "path": "docs/PUBLICATION.md",
+      "sha256": "044a28ce5594cec1996b49538025ca16a4cf141a654a87af72eb98e965008524",
+      "bytes": 1855
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "sha256": "b9f99c0af8ae16bf9f61666abb43e7bb1a502d4ce75e40943b5ff540e00c4f1d",
+      "bytes": 1971
+    },
+    {
+      "path": "gaming-os/SKILL.md",
+      "sha256": "c2f3ed26b3778179f6d4539ac656befa95a0a32140e94102d567aed97dc92767",
+      "bytes": 4913
+    },
+    {
+      "path": "gaming-os/integrations/codex-imagegen-assets.md",
+      "sha256": "d972d866fb3690f2c0880418c58a9dc13230e3541c4dba6a3eb21976a0a407a0",
+      "bytes": 4777
+    },
+    {
+      "path": "gaming-os/integrations/godot-pixel-farming.md",
+      "sha256": "f3c6c0059a25694159464cd8ebad15b68acb78120564c15a951ccfa51e743bfe",
+      "bytes": 16550
+    },
+    {
+      "path": "gaming-os/integrations/ui-motion.md",
+      "sha256": "31edf047095613f9bf92bc83a84a76c208b6f7c8b201b2444c5a52190ca1d823",
+      "bytes": 6346
+    },
+    {
+      "path": "gaming-os/integrations/unity-threejs.md",
+      "sha256": "1c35f0c6bc349eaccc31adb79a965f292692139c033e0c468fb906693d4744d8",
+      "bytes": 4431
+    },
+    {
+      "path": "gaming-os/references/01-game-architecture.md",
+      "sha256": "1057a5e82a813610882f1e9248c3eea2974e269e94637efce60ccbdc65453e8c",
+      "bytes": 1954
+    },
+    {
+      "path": "gaming-os/references/02-idea-originality.md",
+      "sha256": "85337110d7772efade71ad6fcefba101bdc4398924340aed52ffb1b4af8df3b5",
+      "bytes": 1635
+    },
+    {
+      "path": "gaming-os/references/03-core-loop-rules.md",
+      "sha256": "d833b0defa2984d1fc59056b1c9e81073989b29eb3500e91d81716952f9c379f",
+      "bytes": 1776
+    },
+    {
+      "path": "gaming-os/references/04-player-input-physics.md",
+      "sha256": "c68bcf5f41ab07a19323259b6d9f8c971bde1bc6598f53d254343ba71554a635",
+      "bytes": 1739
+    },
+    {
+      "path": "gaming-os/references/05-world-level-design.md",
+      "sha256": "81009d6b6f858c47ccacff1d6a23dbf26b1d7e57d76ea1b559d4724b7c8bd697",
+      "bytes": 1752
+    },
+    {
+      "path": "gaming-os/references/06-art-sprite-pipeline.md",
+      "sha256": "13735b4c68e95eff6c5dcd253d49c6bc0be56ba4a7cf1163f77266eadfd51c53",
+      "bytes": 2610
+    },
+    {
+      "path": "gaming-os/references/07-map-runtime-contract.md",
+      "sha256": "e2601d5e32e7cab60418cb2a4d947dca74d16caaf9bbe59e6de516cfbbe54dcf",
+      "bytes": 2198
+    },
+    {
+      "path": "gaming-os/references/08-runtime-engine-architecture.md",
+      "sha256": "84ed025c8b2e5dfa031be9e5a96bb955c7da6dd5d1f24cc7bf5ef4e86e53c728",
+      "bytes": 3887
+    },
+    {
+      "path": "gaming-os/references/09-feedback-audio-vfx.md",
+      "sha256": "71c549442008a8fba07ff3c4abee3e512145aba7680a55f83ebb5ccaabf7d112",
+      "bytes": 2194
+    },
+    {
+      "path": "gaming-os/references/10-progression-balance.md",
+      "sha256": "c1c853e865ad51766c10a5be05dc3e150857ea97cdc86d50931a64cc2630e0f8",
+      "bytes": 1767
+    },
+    {
+      "path": "gaming-os/references/11-mobile-accessibility-performance.md",
+      "sha256": "29200b12b1bc048a67bbf840886f2d83f67d7da3bc12b137bc6527cfa62cdac9",
+      "bytes": 2172
+    },
+    {
+      "path": "gaming-os/references/12-qa-playtest-release.md",
+      "sha256": "19f76a7020fb4008e1448337d777d5cf37ad26bf6c8017474a227d0bc61477d3",
+      "bytes": 2220
+    },
+    {
+      "path": "gaming-os/references/13-learning-game-design.md",
+      "sha256": "24df8787c0c62394f1a3a8829e19ae129695d7ffd465dfd76a826c92ecff9d65",
+      "bytes": 1676
+    },
+    {
+      "path": "gaming-os/references/14-continuity-memory.md",
+      "sha256": "bc3d25c59b426d933809c513215ff99ba59b623baa9467ea6ea0d7c9102757a8",
+      "bytes": 1612
+    },
+    {
+      "path": "gaming-os/templates/asset-manifest.example.json",
+      "sha256": "782885c23a10ecdf477ca9a16811b5ecbb4752f445b14af9f6b1ca4b6a637597",
+      "bytes": 1281
+    },
+    {
+      "path": "gaming-os/templates/game-brief.md",
+      "sha256": "996ba4eafce71b5a0c08bf17ba9e50e9c2dda2691898fe437a49ae619c718318",
+      "bytes": 1998
+    },
+    {
+      "path": "gaming-os/templates/game-project-state.md",
+      "sha256": "f95bbe75bbed7a2d9df66829cecdfa290cd3bdc2edcfd287473d7c26e72f002e",
+      "bytes": 1188
+    },
+    {
+      "path": "gaming-os/templates/generation-log.md",
+      "sha256": "b801e44880e7817af107fe1781b7f4e9b69062061a80e12179a18ead3579773f",
+      "bytes": 1128
+    },
+    {
+      "path": "gaming-os/templates/godot-farming-plan.md",
+      "sha256": "a881d5ce40d4c06d5ee3f0cac7c5d56ef443579c0c8c2ee03c7394eea6589582",
+      "bytes": 2832
+    },
+    {
+      "path": "gaming-os/templates/issue-report.md",
+      "sha256": "19b513936392eb81a027a9bf9085515452654fccc3685fad9e1e2b103b1a9c69",
+      "bytes": 648
+    },
+    {
+      "path": "gaming-os/templates/learning-brief.md",
+      "sha256": "bcf39355d1be4d8b9854025f486cf37c7f53549064190866afa4ba117624130c",
+      "bytes": 641
+    },
+    {
+      "path": "gaming-os/templates/map-contract.example.json",
+      "sha256": "77e8af34638cd0b7950b22d70c213495ff34be8307fef116fdc05c33330127f8",
+      "bytes": 1285
+    },
+    {
+      "path": "gaming-os/templates/platform-decision.md",
+      "sha256": "c467c205f0d510421af5395041cbb41662204609c667b3d136d1f83b71a529c6",
+      "bytes": 2872
+    },
+    {
+      "path": "gaming-os/templates/playtest-report.md",
+      "sha256": "1ec1e6688c729ec8b2e10567c8dae1767646746d7a2e8d736cc8e4f71debb2e7",
+      "bytes": 761
+    },
+    {
+      "path": "gaming-os/templates/project-memory.md",
+      "sha256": "ba7e5f0520daa085201d1d0958a8190c424582f9383c7d6781c16bd668f7e411",
+      "bytes": 435
+    },
+    {
+      "path": "gaming-os/templates/qa-plan.md",
+      "sha256": "dd4eb9b3967bb5183973b6c6db579abf19563ae9b3053df1aa9c843fd9ba3e15",
+      "bytes": 1627
+    },
+    {
+      "path": "gaming-os/templates/session-checkpoint.md",
+      "sha256": "6d3d9fbfb9822c1696f95b2790ca1a45b4ba0f4e8c9fd7e473b3d6d7df786e25",
+      "bytes": 568
+    },
+    {
+      "path": "gaming-os/templates/ui-motion-contract.md",
+      "sha256": "54d379b9b43cb64aaa5b85259991203e8455805edfdb9161ad43ff6548ea6722",
+      "bytes": 1604
+    },
+    {
+      "path": "gaming-os/workflows/modes.md",
+      "sha256": "3c2d21b32b472ebfd048c31faf3c7e52c38cb2c5a975679fb97198cd5736303b",
+      "bytes": 6346
+    },
+    {
+      "path": "gaming-os/workflows/platform-selection.md",
+      "sha256": "5f952764f6a1ef33fac3125f4e084c1451538c6b28eeeb5fb8f0654c61d6e0e4",
+      "bytes": 3453
+    },
+    {
+      "path": "gaming-os/workflows/router.md",
+      "sha256": "7e60e8e883c42b03f04d26be1635d4959c8f6e67787991200686e79249c73a8a",
+      "bytes": 5851
+    },
+    {
+      "path": "tests/test_publication.py",
+      "sha256": "91c95ce7a056cef69c61224a3586370f8f037c1976a1ea9cca99df608760b04f",
+      "bytes": 3468
+    },
+    {
+      "path": "tools/init_workspace.py",
+      "sha256": "175d52002732eeddf6409749547b8bbd62ba2b55a13e8917429956c9951250f9",
+      "bytes": 1636
+    },
+    {
+      "path": "tools/validate_public.py",
+      "sha256": "92da2084627042fa0c0565fc7099f9c2c1cd0b49ba9626a4edfbdd8ae6214264",
+      "bytes": 8785
+    }
+  ]
+}
