@@ -1,5 +1,7 @@
 # Gaming OS
 
+Build by [CaknaAI team](https://caknaai.com/)
+
 **A reusable, file-based workflow for designing, building and improving original games with AI coding assistants.**
 
 Gaming OS menghubungkan idea, pemilihan enjin, gameplay, aset, pembangunan, QA dan memori projek. Dokumentasi utama menggunakan **Bahasa Melayu**, dengan istilah teknikal dikekalkan. Ia sebuah framework kerja; bukan sistem operasi komputer, game engine atau koleksi game siap.
