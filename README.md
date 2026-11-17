@@ -55,6 +55,9 @@ Alat lain juga boleh membaca Markdown secara terus. Plugin, image generation, ed
 | Unity atau 3D web | [Unity/Three.js](gaming-os/integrations/unity-threejs.md) |
 | Menu/HUD dan motion | [UI/motion](gaming-os/integrations/ui-motion.md) |
 | Bitmap/reference Imagegen | [Aset Codex Imagegen](gaming-os/integrations/codex-imagegen-assets.md) |
+| Idea samar kepada brief, mengikut genre | [Lembaran genre](gaming-os/integrations/genre-chipsets.md) |
+| Semak build terhadap brief | [Kad serah](gaming-os/templates/handover-card.md) |
+| Rupa setanding rujukan | [Gelung sasaran visual](gaming-os/integrations/visual-target-loop.md) |
 | Brief, kontrak dan bukti | [Templat](gaming-os/templates/) |
 
 ## Privasi dan skop repo

@@ -50,6 +50,10 @@ Transkrip ialah rujukan teknikal 2D; contoh angka, aset kursus dan promosi premi
 
 ## Routing UI, motion dan repo
 
+Apabila scene, model, UI atau animasi mesti setanding rujukan pemilik, ART/ASSET/ITERATE menggunakan [gelung sasaran visual](../integrations/visual-target-loop.md) dan [lejar pusingan](../templates/visual-rounds.md). Had masa, penggunaan dan kredit kekal milik pemilik; skor pengkritik bukan approval.
+
+Untuk idea yang masih terbuka dalam IDEATE/PLAN, gunakan [lembaran genre dan satu pusingan soalan](../integrations/genre-chipsets.md) bagi mengisi brief; BUILD/PLAYTEST/RELEASE menggunakan [kad serah](../templates/handover-card.md) bersama modul 12. Panduan ini tidak memilih enjin, tidak menjadikan browser lalai dan tidak menambah gate.
+
 Untuk permintaan aset melalui Imagegen Codex, gunakan ART/ASSET dengan [pipeline Imagegen](../integrations/codex-imagegen-assets.md), modul06 dan kontrak aset projek. Mod07 diperlukan bagi latar/peta; model 3D tetap mengikuti pipeline mesh/rig projek. Planning sahaja tidak mengaktifkan generation. Pilihan alat ini tidak menyambung game yang sedang dihentikan.
 
 Untuk UI/menu/HUD atau animasi interface, muatkan [integrasi UI/motion](../integrations/ui-motion.md) selepas keputusan platform. PLAN menetapkan [kontrak](../templates/ui-motion-contract.md); ART menetapkan states/style/timing; BUILD dan ITERATE melaksanakan serta menguji resipi yang relevan; RELEASE menyemak dependency/notices dan output. Modul 08/09/11/12 menghubungkan implementation, feedback, akses/prestasi dan QA.

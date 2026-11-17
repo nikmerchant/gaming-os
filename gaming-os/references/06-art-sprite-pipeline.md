@@ -21,3 +21,5 @@ Grounded sprite berkongsi feet line dan standing-equivalent scale. Fit-to-bbox s
 Bagi 2D pixel farming Godot, [panduan khusus](../integrations/godot-pixel-farming.md) menghubungkan filtering/scaling, feet anchor, arah/action sprite, discrete animation, terrain dan frame tanaman dengan runtime. Sheet cantik perlu diuji pada saiz/kamera sebenar; jumlah frame artwork tidak menentukan aturan matang secara automatik.
 
 Tiada frame kosong tidak sengaja, anggota terpotong, grid salah, pink halo, identiti berubah atau scale/anchor drift yang tidak dijelaskan. Alpha/timing/loop diperiksa dalam preview, bukan satu still sahaja. Ukuran drift ialah toleransi projek, bukan angka universal. Manifest membezakan accepted_by_agent dan approved_by_owner.
+
+Apabila aset atau scene mesti setanding rujukan, bandingkan sebelah-menyebelah pada bingkai tetap dan skor melalui [gelung sasaran visual](../integrations/visual-target-loop.md); skor pengkritik ialah accepted_by_agent paling tinggi, bukan approved_by_owner.

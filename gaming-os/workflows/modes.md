@@ -6,15 +6,21 @@ Inventorikan corpus, deduplicate berdasarkan hash, pisahkan fakta sumber daripad
 
 ## IDEATE
 
+Untuk idea samar, tawarkan dua atau tiga pitch satu baris daripada [lembaran genre](../integrations/genre-chipsets.md) sebelum memilih.
+
 Bina tiga konsep yang berbeza secara mekanik apabila tiada bilangan khusus. Setiap konsep: player fantasy, tindakan utama, loop, sasaran peranti, sesi, identiti asal, kos relatif dan risiko. Pilih cadangan pilot bersebab; label sebagai cadangan agent, bukan keputusan pemilik.
 
 ## PLAN
+
+Apabila brief masih terbuka, jalankan [satu pusingan soalan genre](../integrations/genre-chipsets.md); nilai lalai ditanda sementara dan kata pemilik dipelihara.
 
 Untuk menu/HUD/interface atau web companion yang diminta, isi [kontrak UI/motion](../templates/ui-motion-contract.md) selepas keputusan platform. Pilih satu asas UI dan pemilik motion bagi setiap property melalui [integrasi](../integrations/ui-motion.md); rekod sources/lesen, dependency serta acceptance.
 
 Isi brief dan state; definisikan loop, state machine, input, physics, level dan win/fail/restart. Ikut [pemilihan platform](platform-selection.md): sasaran gameplay/animasi → calon enjin dan alat aset → keputusan serta format handoff sebelum build. Rancang aset minimum dan slice pengesahan pipeline. Tetapkan acceptance criteria dan QA yang membezakan genre. Hasil boleh dilaksanakan tanpa meneka aturan teras; jangan jana media jika pengguna hanya meminta pelan.
 
 ## ART
+
+Apabila rujukan menentukan mutu, tetapkan senarai shot dan bar bernombor melalui [gelung sasaran visual](../integrations/visual-target-loop.md).
 
 Apabila arah visual menggunakan imej janaan, [pipeline Imagegen Codex](../integrations/codex-imagegen-assets.md) boleh menyediakan anchor/reference. Bezakan concept/reference daripada bitmap runtime dan model 3D; kekalkan provider khusus yang dipilih pemilik.
 
@@ -30,6 +36,8 @@ Semak keputusan platform, alat/model hidup dan kontrak aset yang sesuai. Jana ba
 
 ## BUILD
 
+Serahkan build dengan [kad serah](../templates/handover-card.md): semakan kecil dan senarai semak brief dengan bukti.
+
 Jika UI/motion dipilih dalam pelan, implement satu resipi dahulu dan uji nilai akhir, focus/input, interruption, reset dan cleanup. Gunakan API enjin untuk game native; source React/registry hanya bagi sasaran web serasi. Jangan anggap sampel yang disimpan sebagai library yang sudah dipasang.
 
 Pastikan keputusan platform berstatus SELECTED sebelum mula membina game; jika belum, lengkapkan langkah PLAN yang diperlukan dalam skop kebenaran sedia ada. Uji slice teknikal pada enjin terpilih: import aset/animasi, kawalan, collision dan export sasaran. Bangunkan loop kecil lengkap, kaitkan data level dan manifest, implement input sasaran, failure/win/restart, kemudian seni/feedback. Jalankan build/validator dan smoke test yang relevan. Hasil: runnable build, run instructions, bukti dan limitation. Ikut gate review projek yang benar-benar telah ditetapkan.
@@ -43,6 +51,8 @@ Sediakan task dan soalan tanpa menerangkan semua penyelesaian kepada pemain. Cat
 Reproduce berdasarkan build, input dan langkah. Pisahkan isu aturan, physics, art alignment, input mapping, state reset dan performance. Buat perubahan terkecil yang menyelesaikan punca. Semak sistem yang berinteraksi dan run smoke test dari state relevan; rekod before/after.
 
 ## ITERATE
+
+Untuk penambahbaikan rupa, jalankan pusingan [gelung sasaran visual](../integrations/visual-target-loop.md): sebelah-menyebelah, pengkritik konteks segar dan lejar; maklum balas pemilik didahulukan.
 
 Untuk perubahan interface, kemas kini kontrak UI/motion dan banding clarity/input sebelum serta selepas. Semak kembali reduced motion, pause/back dan restart; polish tidak boleh mengubah reward atau aturan secara terselindung.
 

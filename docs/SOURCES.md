@@ -24,3 +24,10 @@ Framework ini membekalkan panduan serta templat, tanpa membundel source upstream
 - [Animate](https://github.com/cth9191/animate)
 
 Semak lesen versi/fail yang digunakan sebelum reuse. Lesen repo skill bukan semestinya lesen runtime; kod, media, fon, template dan registry boleh mempunyai syarat berbeza. Rujukan kepada sesuatu repo tidak bermaksud ia diperlukan atau sesuai untuk game native. Pilihan dan kriteria terdapat dalam [panduan UI/motion](../gaming-os/integrations/ui-motion.md).
+
+## Kaedah yang diadaptasi
+
+- [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) (MIT, Copyright (c) 2026 Donchitos), Release 1.3.0 — lembaran genre, satu pusingan soalan, senarai semak brief, kad serah dan senarai potong; diadaptasi ke `gaming-os/integrations/genre-chipsets.md`, `gaming-os/templates/handover-card.md`, templat brief dan modul 12. Agen, hook, skrip dan laluan lalai browser repo itu tidak dibawa.
+- [Cook](https://github.com/Leonxlnx/cook) (MIT, Copyright (c) 2026 Leon Lin) — gelung sasaran visual: rujukan sebagai aras minimum, bar bernombor, pengkritik konteks segar, kalibrasi dan lejar pusingan; diadaptasi ke `gaming-os/integrations/visual-target-loop.md` dan `gaming-os/templates/visual-rounds.md`. Lalai autonomi panjang dan skrip tidak dibawa.
+
+Teks framework ini ditulis semula dalam Bahasa Melayu; tiada fail upstream dibundel. Notis MIT kedua-dua sumber terpakai pada bahagian yang diadaptasi.

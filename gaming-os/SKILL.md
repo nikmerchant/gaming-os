@@ -14,6 +14,8 @@ Framework awam v0.1. Hubungkan keputusan reka bentuk dengan aset, kod dan bukti 
 3. Muatkan modul minimum yang disenaraikan router. Baca sumber asal hanya apabila butiran atau konflik memerlukannya.
    Apabila kerja melibatkan UI/menu/HUD, motion atau video promosi, baca [integrasi UI/motion](integrations/ui-motion.md) dan pilih alat mengikut output terpilih.
    Untuk simulasi pertanian/kehidupan pixel art dalam Godot, baca [panduan Godot pixel farming](integrations/godot-pixel-farming.md) dan gunakan [pelan projek](templates/godot-farming-plan.md) apabila relevan. Panduan 2D ini tidak memilih enjin atau memulakan game secara automatik.
+   Apabila idea masih terbuka, gunakan [lembaran genre dan satu pusingan soalan](integrations/genre-chipsets.md) untuk brief; serahkan build dengan [kad serah](templates/handover-card.md).
+   Apabila rupa mesti setanding rujukan, gunakan [gelung sasaran visual](integrations/visual-target-loop.md) dan [lejar pusingan](templates/visual-rounds.md).
 4. Hasilkan deliverable bagi skop yang diminta, semak bukti dan simpan state serta langkah seterusnya.
 
 ## Invarian projek

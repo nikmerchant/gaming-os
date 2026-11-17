@@ -35,8 +35,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "41cf59bad8ce86fe925e4f3ed5133d77da2e4fd4e0579b0d72cba11bfd71019c",
-      "bytes": 5397
+      "sha256": "e138d6228a46be2f445fc2b7f720bccd19778e5156f47848d0b112d270a69022",
+      "bytes": 5684
     },
     {
       "path": "docs/PUBLICATION.md",
@@ -45,18 +45,23 @@
     },
     {
       "path": "docs/SOURCES.md",
-      "sha256": "b9f99c0af8ae16bf9f61666abb43e7bb1a502d4ce75e40943b5ff540e00c4f1d",
-      "bytes": 1971
+      "sha256": "1c5a9b7494911759481c86b646a510b8dedfaa0dfad1cfad8bcf956d81338b1f",
+      "bytes": 2930
     },
     {
       "path": "gaming-os/SKILL.md",
-      "sha256": "c2f3ed26b3778179f6d4539ac656befa95a0a32140e94102d567aed97dc92767",
-      "bytes": 4913
+      "sha256": "b952a191fb54cb9934db830e4f876031c80c9de914b99d29e4c953a17bcc695f",
+      "bytes": 5263
     },
     {
       "path": "gaming-os/integrations/codex-imagegen-assets.md",
       "sha256": "d972d866fb3690f2c0880418c58a9dc13230e3541c4dba6a3eb21976a0a407a0",
       "bytes": 4777
+    },
+    {
+      "path": "gaming-os/integrations/genre-chipsets.md",
+      "sha256": "f0a158089117d03fbea1544bcfe8a04e6dcb4af27e00b864475a899ff07ce80e",
+      "bytes": 4024
     },
     {
       "path": "gaming-os/integrations/godot-pixel-farming.md",
@@ -72,6 +77,11 @@
       "path": "gaming-os/integrations/unity-threejs.md",
       "sha256": "1c35f0c6bc349eaccc31adb79a965f292692139c033e0c468fb906693d4744d8",
       "bytes": 4431
+    },
+    {
+      "path": "gaming-os/integrations/visual-target-loop.md",
+      "sha256": "7d99af66538ffea33a91bfded9acd1b17d1da40fef6014a64236b260da68da07",
+      "bytes": 4401
     },
     {
       "path": "gaming-os/references/01-game-architecture.md",
@@ -100,8 +110,8 @@
     },
     {
       "path": "gaming-os/references/06-art-sprite-pipeline.md",
-      "sha256": "13735b4c68e95eff6c5dcd253d49c6bc0be56ba4a7cf1163f77266eadfd51c53",
-      "bytes": 2610
+      "sha256": "56039519782857ddb419ce44d28806844e3ac66c75e116e31c2a52e5d8f2e340",
+      "bytes": 2872
     },
     {
       "path": "gaming-os/references/07-map-runtime-contract.md",
@@ -130,8 +140,8 @@
     },
     {
       "path": "gaming-os/references/12-qa-playtest-release.md",
-      "sha256": "19f76a7020fb4008e1448337d777d5cf37ad26bf6c8017474a227d0bc61477d3",
-      "bytes": 2220
+      "sha256": "bb82490cc28c26882bf11d3df5c113abc23e11d75114fcedec3e6b23577e62c8",
+      "bytes": 3510
     },
     {
       "path": "gaming-os/references/13-learning-game-design.md",
@@ -150,8 +160,8 @@
     },
     {
       "path": "gaming-os/templates/game-brief.md",
-      "sha256": "996ba4eafce71b5a0c08bf17ba9e50e9c2dda2691898fe437a49ae619c718318",
-      "bytes": 1998
+      "sha256": "05b4124a1c78b05d2fe840c5cb9d98eb175c56203b1967dcf3efd1ac9de3038c",
+      "bytes": 2801
     },
     {
       "path": "gaming-os/templates/game-project-state.md",
@@ -167,6 +177,11 @@
       "path": "gaming-os/templates/godot-farming-plan.md",
       "sha256": "a881d5ce40d4c06d5ee3f0cac7c5d56ef443579c0c8c2ee03c7394eea6589582",
       "bytes": 2832
+    },
+    {
+      "path": "gaming-os/templates/handover-card.md",
+      "sha256": "cee40d0cc42405b00639b1f65b27c715bbdb129e5a63f54ac25c03efaae494d6",
+      "bytes": 2603
     },
     {
       "path": "gaming-os/templates/issue-report.md",
@@ -214,9 +229,14 @@
       "bytes": 1604
     },
     {
+      "path": "gaming-os/templates/visual-rounds.md",
+      "sha256": "7036471c82b12f56fd9df5fce6a4c041d8f7a354524e395de0508ff230dbce1b",
+      "bytes": 1726
+    },
+    {
       "path": "gaming-os/workflows/modes.md",
-      "sha256": "3c2d21b32b472ebfd048c31faf3c7e52c38cb2c5a975679fb97198cd5736303b",
-      "bytes": 6346
+      "sha256": "b6af9c3cf0c2339ede34ff478835feb1a58b88dd5f61c82d56a2dc8b6b31b053",
+      "bytes": 7121
     },
     {
       "path": "gaming-os/workflows/platform-selection.md",
@@ -225,8 +245,8 @@
     },
     {
       "path": "gaming-os/workflows/router.md",
-      "sha256": "7e60e8e883c42b03f04d26be1635d4959c8f6e67787991200686e79249c73a8a",
-      "bytes": 5851
+      "sha256": "6c59da5550d1eb450b684778e289edd7a4810a5a73285e3da8180537a11b8d81",
+      "bytes": 6498
     },
     {
       "path": "tests/test_publication.py",

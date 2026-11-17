@@ -8,6 +8,14 @@ Structural checks memeriksa path/schema/bounds. Unit/system tests memeriksa pera
 
 QA minimum: load/title/start, actions, collision, pickup once, damage cooldown, timer/pause, objective, win/fail dan restart. Uji repeat restart, tab background, resize, input release dan missing assets. Pilih tambahan genre: beam loop/softlock, match-3 dead board/cascades, shop locks/price, tower footprint sepanjang route, procedural pattern fairness.
 
+## Semakan terhadap brief dan kad serah
+
+Setiap build yang diserahkan disertai [kad serah](../templates/handover-card.md): semakan kecil (boots, shot, responds, teks, alir), senarai semak setiap ciri bernombor brief sebagai pass/missing/broken/not_assessed bersama bukti, apa yang diteka dan apa yang masih rosak. Satu pusingan pembaikan, kemudian semak sekali; baki ditulis terus, bukan disembunyikan. `pass` bermaksud ada dan berfungsi seperti ditulis, bukan terasa betul. Kad kekal “Belum dimainkan oleh manusia” sehingga benar-benar dimainkan.
+
+Verdict selepas dimainkan ialah PROCEED, PIVOT atau KILL oleh pemilik, atau NOT ASSESSED. Tiga PIVOT pada konsep sama memerlukan soalan terus tentang kos tenggelam. Prototaip enjin yang dibina untuk menjawab satu soalan tidak dirombak menjadi kod produksi tanpa keputusan sengaja. Build tempatan menunjukkan sama ada mekanik rangkaian menarik, bukan sama ada ia terasa baik di bawah latency sebenar.
+
+Untuk menyiapkan game, cadangkan senarai potong daripada brief dan keadaan build, setiap satu bersebab; pemilik memilih setiap potongan dan tiada ciri dipotong secara senyap. Simpan senarai polish berasingan. Kaedah ini diadaptasi daripada Claude Code Game Studios melalui [integrasi genre](../integrations/genre-chipsets.md).
+
 ## Isu dan pembaikan
 
 Issue report merekod build, device, expected/actual, langkah repro, evidence dan severity. Prioriti: blocker → input/collision → rules/state → clarity/balance → visual polish. Fix hanya sistem perlu; ulang ujian relevan dan sesi ringkas lengkap. Jangan rewrite semua projek untuk satu corner bug.
